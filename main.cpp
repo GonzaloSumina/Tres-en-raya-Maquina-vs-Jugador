@@ -260,3 +260,4 @@ int main() {
     return 0;
 
 }
+//https://revistas.ufpr.br/atoz/article/view/41342/25339        IA referencia.
